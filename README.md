@@ -15,7 +15,7 @@ RoundedCornerLayout
 
 EditText
 
-Class, startIntent
+Class
 
 Pick photo and show in ImageView
 
