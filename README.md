@@ -11,7 +11,7 @@ BaseAdapter
 
 TextView
 
-RoundImageView
+RoundedCornerLayout
 
 EditText
 
